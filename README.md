@@ -33,5 +33,8 @@ En este desafío se aplicó lo aprendido en los cursos de AluraLATAM:
 - **Lógica de programación**: sumérgete en la programación con JavaScript
 - **Lógica de programación**: explorar funciones y listas
 - **Git y GitHub**: repositorio, commit y versiones
+
+---
+
 ## **Author**  
 GitHub: [@theArzival](https://github.com/theArzival)
